@@ -2,7 +2,15 @@
   "name": "eslint-config-av",
   "version": "0.0.1",
   "description": "ESLint and Prettier Config by Anthony Velazquez",
-  "keywords": ["javascript", "typescript", "eslint", "tslint", "lint", "config", "prettier"],
+  "keywords": [
+    "javascript",
+    "typescript",
+    "eslint",
+    "tslint",
+    "lint",
+    "config",
+    "prettier"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
