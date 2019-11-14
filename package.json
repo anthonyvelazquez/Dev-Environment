@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-av",
+  "version": "0.0.1",
+  "description": "ESLint and Prettier Config by Anthony Velazquez",
+  "keywords": ["javascript", "typescript", "eslint", "tslint", "lint", "config", "prettier"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyvelazquez/dev-environment.git"
+  },
+  "author": "Anthony Velazquez <anthonyhvelazquez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonyvelazquez/dev-environment/issues"
+  },
+  "homepage": "https://github.com/anthonyvelazquez/dev-environment#readme",
+  "devDependencies": {
+    "babel-eslint": "^9.0.0",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-html": "^5.0.3",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.14.2",
+    "eslint-plugin-react-hooks": "^1.4.0",
+    "prettier": "^1.16.4"
+  }
+}
