@@ -28,6 +28,8 @@
   },
   "homepage": "https://github.com/anthonyvelazquez/dev-environment#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.7.0",
+    "@typescript-eslint/parser": "^2.7.0",
     "babel-eslint": "^9.0.0",
     "eslint": "^6.6.0",
     "eslint-config-airbnb": "^18.0.0",
