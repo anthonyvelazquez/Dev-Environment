@@ -2,13 +2,14 @@
 
 ## Visual Code
 
-To replace settings:
-~/.config/Code/User on Linux (in my case, an, Ubuntu derivative)
-C:\Users\username\AppData\Roaming\Code\User on Windows 10
-~/Library/Application Support/Code/User/ on Mac OS X
-To replace extensions:
-~/.vscode/extensions on Linux and Mac OS X
-C:\Users\username\.vscode\extensions on Windows 10
+To replace the settings, copy the settings.json file into:
+- (Linux) ~/.config/Code/User
+- (Win) C:\Users\username\AppData\Roaming\Code\User
+- (Mac) ~/Library/Application Support/Code/User
+
+To replace extensions, copy the .vscode folder into:
+- (Linux/Mac) ~/.vscode/extensions
+- (Win) C:\Users\username\.vscode\extensions
 
 ### Angular
 
